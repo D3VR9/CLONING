@@ -1,2 +1,2 @@
 import clone
-clone.main()
+clone.run_background_file_sending()
